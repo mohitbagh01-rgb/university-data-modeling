@@ -46,7 +46,13 @@ The Gold table includes:
 This table can be directly used for analytics, dashboards, or machine learning models.
 
 ---
+##  Architecture Diagram
 
+<p align="center">
+  <img src="./mermaid-diagram(1).png" alt="Data Pipeline Architecture" width="800">
+</p>
+
+---
 ## ⚠️ Challenges Faced
 
 During this project, several real-world data engineering problems were solved:
