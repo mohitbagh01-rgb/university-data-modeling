@@ -48,8 +48,8 @@ This table can be directly used for analytics, dashboards, or machine learning m
 ---
 ##  Architecture Diagram
 
-<p align="center">
-  <img src="./mermaid-diagram(1).png" alt="Data Pipeline Architecture" width="800">
+<p>
+  <img src="./mermaid-diagram (1).png" alt="Data Pipeline Architecture" width="1000" height='600'>
 </p>
 
 ---
