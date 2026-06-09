@@ -68,12 +68,13 @@ During this project, several real-world data engineering problems were solved:
 
 ## 🛠️ Technologies Used
 
-* Databricks
-* SQL
-* Delta Lake
-* Data Modeling
-* ETL Pipeline Design
-* Bronze-Silver-Gold Architecture
+- Databricks (Notebooks, Delta Lake, Unity Catalog)
+- Apache Spark (PySpark / Spark SQL)
+- Delta Lake (ACID transactions, time travel)
+- SQL (complex joins, window functions, aggregations)
+- Python
+- Medallion Architecture (Bronze-Silver-Gold)
+- Data Modeling (fact/dimension tables, grain definition)
 
 ---
 
